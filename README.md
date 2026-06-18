@@ -20,11 +20,4 @@ Features
 - Boss fights
 - Random world loot
 
-My Role
--------------------------
-
-- Designed and implemented all AI behaviors
-- Created the elemental weakness system using interfaces
-- Designed and created the multi-phase boss fight
-- Created the stealth system
-- Debugging and backend
+Play the game here: https://thackattack42.itch.io/fungi-sporefare-30
